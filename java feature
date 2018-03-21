@@ -3,3 +3,9 @@ platform independence of Java
 
 Platform independence means that you can run the same Java Program in any Operating System. 
 For example, you can write java program in Windows and run it in Mac OS.
+
+
+
+superclass of all classes
+
+java.lang.Object is the root class for all the java classes and we don’t need to extend it.
