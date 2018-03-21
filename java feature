@@ -5,6 +5,15 @@ Platform independence means that you can run the same Java Program in any Operat
 For example, you can write java program in Windows and run it in Mac OS.
 
 
+(2)
+finally and finalize
+finally block is used with try-catch to put the code that you want to get executed always, 
+even if any exception is thrown by the try-catch block. finally block is mostly used to release resources created in the try block.
+
+finalize() is a special method in Object class that we can override in our classes.
+This method get’s called by garbage collector when the object is getting garbage collected. This method is usually overridden to release system resources when object is garbage collected.
+
+(3)
 
 superclass of all classes
 
